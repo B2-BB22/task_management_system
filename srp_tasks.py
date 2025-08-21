@@ -118,3 +118,5 @@ if __name__ == "__main__":
     
     # Final list
     manager.list_tasks()
+
+    print("Finished")
